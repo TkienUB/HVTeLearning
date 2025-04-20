@@ -4,8 +4,6 @@ Dự án ứng dụng học tập HVT eLearning hỗ trợ trong giảng dạy v
 
 Hỗ trợ các nền tảng MacOS - Windows
 
-***Hiện tại chưa hỗ trợ với Apple Silicon (Apple M series) và Windows ARM (các vi xử lý ARM như Snapdragon X)***
-
 Hướng dẫn cài đặt phần mềm:
 
 **Với MacOS**
