@@ -8,11 +8,7 @@ Hướng dẫn cài đặt phần mềm:
 
 **Với MacOS**
 
-Tải và mở HVT eLearning For Mac.DMG trong Release
-
-Kéo ứng dụng vào thư mục Applications (Ứng dụng)
-
-Mở ứng dụng trong launchpad
+Tải HVT eLearning.app trong release
 
 **Với Windows**
 
